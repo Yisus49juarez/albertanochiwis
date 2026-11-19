@@ -9,7 +9,7 @@ import datos.CategoriaDAO;
 import entidades.Categoria;
 import java.util.ArrayList;
 import java.util.List;
-import javax.swing.table.DefaultTableModel;
+import javax.swing.table.DefaultTableModel;//Hola desde Yisus Juarez pongame 100 profe
 
 /**
  *
